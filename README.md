@@ -1,0 +1,2 @@
+# GameConfigTableManager
+通过脚本将excel策划表一键部署至服务端mongodb，并生成json文件、类文件供客户端(如cocoscreator)使用
